@@ -43,7 +43,7 @@ Berisi beberapa lembar kerja (*sheets*) utama:
 * **`Comparasion Expert and LLM_Test`**: Tabel sanding (*matrix agreement*) komparasi antara sheet `Expert Person` dan `LLM_Test` yang menghasilkan nilai kesepakatan 82%.
 
 ### 3. Kode Program
-* **`Kode_Program_Random_Forest.md`**: Seluruh kode pemrograman Python yang diunduh dari Google Colab. Berisi proses prapemrosesan data (*preprocessing* termasuk pemanfaatan *colloquial lexicon*), ekstraksi fitur, penanganan data imbalanced, hingga tahap pelatihan dan evaluasi model Random Forest.
+* **`Pengujian_FinalData.ipynb`**: Seluruh kode pemrograman Python yang diunduh dari Google Colab. Berisi proses prapemrosesan data (*preprocessing* termasuk pemanfaatan *colloquial lexicon*), ekstraksi fitur, penanganan data imbalanced, hingga tahap pelatihan dan evaluasi model Random Forest.
 
 ---
 
