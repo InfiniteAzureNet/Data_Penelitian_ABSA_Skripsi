@@ -41,6 +41,8 @@ Berisi beberapa lembar kerja (*sheets*) utama:
 * **`Expert Person`**: Data 249 sampel ulasan acak dari Google Maps & TripAdvisor yang telah dilabeli secara mandiri oleh *Expert Person* (Pakar/Ahli).
 * **`LLM_Test`**: Data 249 sampel ulasan yang sama yang dilabeli oleh Claude untuk kebutuhan uji reliabilitas.
 * **`Comparasion Expert and LLM_Test`**: Tabel sanding (*matrix agreement*) komparasi antara sheet `Expert Person` dan `LLM_Test` yang menghasilkan nilai kesepakatan 82%.
+### 3. Kode Program
+* **`Pengujian_FinalData.ipynb`**: Seluruh kode pemrograman Python yang diunduh dari Google Colab. Berisi proses prapemrosesan data (*preprocessing* termasuk pemanfaatan *colloquial lexicon*), ekstraksi fitur, penanganan data imbalanced, hingga tahap pelatihan dan evaluasi model Random Forest.
 
 ---
 
